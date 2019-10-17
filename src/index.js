@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import 'antd/dist/antd.css';
+import 'rc-texty/assets/index.css';
+import 'rc-scroll-anim/assets/index.css';
+import "./index.css";
+
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
