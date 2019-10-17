@@ -4,7 +4,7 @@ import React from 'react';
 import Trio from './Grid';
 import Duo from './Duo.js';
 import Header from './Header';
-import Demo_ani from'./Demo_ani';
+import Demoani from'./Demo_ani';
 import CardR from './CardR';
 import Card2 from './Card2.js';
 import Demo from './Demo.js';
@@ -97,8 +97,6 @@ function App() {
               </div>
             </Router>
           </div>  
-
-
         </Breakpoint>
 
         <Breakpoint medium>
@@ -109,7 +107,7 @@ function App() {
 
         <Breakpoint large up>
           <Trio />
-          <Demo_ani></Demo_ani>
+          <Demoani></Demoani>
           <Trio />
           <Trio />
         </Breakpoint>

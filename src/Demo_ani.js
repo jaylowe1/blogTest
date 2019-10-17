@@ -2,7 +2,7 @@ import React from "react"
 import Texty from 'rc-texty';
 import { Parallax, scrollScreen, Element } from 'rc-scroll-anim';
 
-function Demo_ani() {
+function Demoani() {
     return (
         <div >
 
@@ -37,4 +37,4 @@ function Demo_ani() {
 
 }
 
-export default Demo_ani;
+export default Demoani;
